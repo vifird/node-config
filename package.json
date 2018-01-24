@@ -1,9 +1,9 @@
 {
-  "name": "config-dot",
-  "version": "1.29.3",
+  "name": "@qcsfe/config-dot",
+  "version": "1.29.0",
   "main": "./lib/config.js",
   "description": "Configuration control for production node deployments",
-  "author": "Loren West <vifirde@gmail.com>",
+  "author": "zhangbin34",
   "homepage": "https://github.com/vifird/node-config",
   "keywords": [
     "conf",
